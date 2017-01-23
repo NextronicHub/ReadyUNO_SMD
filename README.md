@@ -19,7 +19,7 @@ The READY-UNO can be powered through the barrel jack. The on-board power regulat
 •	I2C, UART and SPI.                                                                                                               
 ## Repository Contents
 
-/Hardware - Design files (.brd, .sch) 
+/Hardware - Design files (.brd, .sch)  
 /Documentation - datasheet and examples
 
 ## Product Versions
