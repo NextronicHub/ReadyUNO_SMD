@@ -20,6 +20,7 @@ The READY-UNO can be powered through the barrel jack. The on-board power regulat
 ## Repository Contents
 
 /Hardware - Design files (.brd, .sch)  
+/Firmware - bootloader
 /Documentation - datasheet and examples
 
 ## Product Versions
